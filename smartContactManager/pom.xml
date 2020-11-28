@@ -18,7 +18,10 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
-
+<properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <mainClass>com.manager.SmartContactManagerApplication</mainClass>
+</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
